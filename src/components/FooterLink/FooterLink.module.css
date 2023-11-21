@@ -1,0 +1,28 @@
+.link {
+  margin: 0 2%;
+  border: 0.5px solid #ee145b;
+  padding: 1% 2%;
+  text-decoration: none;
+  color: #91a3ad;
+  font-family: Jost;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  transition: background 0.3s, color 0.3s, box-shadow 0.3s;
+}
+
+.linkHighlighted {
+  background: #ee145b;
+  color: #fff;
+  box-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 0.095);
+}
+
+/* Adicionando estilos para tornar o layout mais responsivo usando flexbox */
+@media (max-width: 768px) {
+  .link {
+    margin: 0 1%;
+    padding: 1% 1%;
+    font-size: 12px;
+  }
+}

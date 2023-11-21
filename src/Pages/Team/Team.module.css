@@ -1,0 +1,12 @@
+.background {
+     display: flex;
+     flex-wrap: wrap;
+     gap: 20px;
+     justify-content: center;
+     align-items: start;
+     padding: 2% 5%;
+     box-sizing: border-box;
+     background-image: url("../../assets/engravings.png");
+     min-height: 100vh; 
+   }
+   

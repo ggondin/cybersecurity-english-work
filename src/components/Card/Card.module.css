@@ -1,0 +1,89 @@
+.card {
+  display: flex;
+  padding: 2% 0;
+  background-image: url("../../assets/engravings-malwares.png");
+  background-size: cover;
+}
+
+.row {
+  flex-direction: row;
+}
+
+.row-reverse {
+  flex-direction: row-reverse;
+}
+
+.img {
+  display: flex;
+  width: 30%;
+  height: 50%;
+  margin: 0 2%;
+}
+
+.title {
+  color: #fdfdfd;
+  text-shadow: 0px 1px 2px #000;
+  font-family: Major Mono Display;
+  font-size: 59px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 3.835px;
+
+  margin-bottom: 3%;
+}
+
+.textDiv {
+  display: flex;
+  flex-direction: column;
+  margin: 0 1%;
+  padding: 0 2%;
+}
+
+.pContent {
+  width: 88%;
+  height: 80%;
+  background: linear-gradient(105deg, #252525 0%, #232323 100%);
+  box-shadow: 1px 4px 12px 0px rgba(0, 0, 0, 0.45);
+  overflow-y: auto;
+}
+
+.text {
+  color: #fdfdfd;
+  text-shadow: 0px 1px 2px #000;
+  font-family: Jost;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 200;
+  line-height: normal;
+  padding: 0 1%;
+}
+
+@media (max-width: 768px) {
+  .card {
+    flex-direction: column;
+  }
+
+  .img {
+    width: 100%;
+    height: auto;
+    margin: 2% 0;
+  }
+
+  .title {
+    margin-bottom: 2%;
+  }
+
+  .textDiv {
+    padding: 0;
+  }
+
+  .pContent {
+    width: 100%;
+    height: auto;
+  }
+
+  .text {
+    padding: 2% 0;
+  }
+}

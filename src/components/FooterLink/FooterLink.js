@@ -1,0 +1,12 @@
+import { Link, useLocation } from 'react-router-dom';
+import styles from './FooterLink.module.css';
+
+export default function FooterLink({ children, to }) {
+  const location = useLocation();
+
+  return (
+    <Link className={`${styles.link} ${location.pathname === to ? styles.linkHighlighted : ""}`} to={to}>
+      {children}
+    </Link>
+  );
+}

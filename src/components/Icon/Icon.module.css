@@ -1,0 +1,9 @@
+.icon {
+  fill: #e6556c;
+}
+
+@media (max-width: 768px), (max-height: 720px) {
+  .icon {
+    display: none;
+  }
+}
