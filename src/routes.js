@@ -9,7 +9,7 @@ import Footer from './components/Footer/Footer';
 
 export default function AppRoutes() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <ScrollToTop />
       <Menu />
       <Routes>
