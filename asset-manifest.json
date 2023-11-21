@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cybersecurity-english-work/static/css/main.ded9da14.css",
+    "main.js": "/cybersecurity-english-work/static/js/main.df8072c9.js",
+    "static/media/banner-home.png": "/cybersecurity-english-work/static/media/banner-home.4f09e581fa0f42befc6b.png",
+    "static/media/malware-card.png": "/cybersecurity-english-work/static/media/malware-card.c81ad83b049a955ddd7a.png",
+    "static/media/trojan-card.png": "/cybersecurity-english-work/static/media/trojan-card.3bc74949f44d32125cea.png",
+    "static/media/phishing-card.png": "/cybersecurity-english-work/static/media/phishing-card.819ac315a53aa4e9612f.png",
+    "static/media/engravings.png": "/cybersecurity-english-work/static/media/engravings.c1c7445b3e03514f85b4.png",
+    "static/media/engravings-malwares.png": "/cybersecurity-english-work/static/media/engravings-malwares.f9e5dff629921a804894.png",
+    "static/media/animasec-logo.png": "/cybersecurity-english-work/static/media/animasec-logo.5990b51b126bfa4b581a.png",
+    "static/media/banner-header.png": "/cybersecurity-english-work/static/media/banner-header.8ff96dce811c63626b28.png",
+    "static/media/anima-logo.png": "/cybersecurity-english-work/static/media/anima-logo.3ddaa331ace173284e7b.png",
+    "index.html": "/cybersecurity-english-work/index.html",
+    "main.ded9da14.css.map": "/cybersecurity-english-work/static/css/main.ded9da14.css.map",
+    "main.df8072c9.js.map": "/cybersecurity-english-work/static/js/main.df8072c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded9da14.css",
+    "static/js/main.df8072c9.js"
+  ]
+}
