@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cybersecurity-english-work/static/css/main.ded9da14.css",
-    "main.js": "/cybersecurity-english-work/static/js/main.df8072c9.js",
+    "main.js": "/cybersecurity-english-work/static/js/main.8b186072.js",
     "static/media/banner-home.png": "/cybersecurity-english-work/static/media/banner-home.4f09e581fa0f42befc6b.png",
     "static/media/malware-card.png": "/cybersecurity-english-work/static/media/malware-card.c81ad83b049a955ddd7a.png",
     "static/media/trojan-card.png": "/cybersecurity-english-work/static/media/trojan-card.3bc74949f44d32125cea.png",
@@ -13,10 +13,10 @@
     "static/media/anima-logo.png": "/cybersecurity-english-work/static/media/anima-logo.3ddaa331ace173284e7b.png",
     "index.html": "/cybersecurity-english-work/index.html",
     "main.ded9da14.css.map": "/cybersecurity-english-work/static/css/main.ded9da14.css.map",
-    "main.df8072c9.js.map": "/cybersecurity-english-work/static/js/main.df8072c9.js.map"
+    "main.8b186072.js.map": "/cybersecurity-english-work/static/js/main.8b186072.js.map"
   },
   "entrypoints": [
     "static/css/main.ded9da14.css",
-    "static/js/main.df8072c9.js"
+    "static/js/main.8b186072.js"
   ]
 }
