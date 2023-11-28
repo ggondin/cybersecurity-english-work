@@ -52,5 +52,11 @@
           "name": "Lucas Gabriel Moura Soares",
           "course": "Engenharia da Computação",
           "description": "Jovem de 20 anos, morador da cidade de Santos. Atualmente cursando o 3° período de Engenharia da Computação, atuo na área de informática."
+     },
+     {
+          "id": 10,
+          "name": "Gabriel Andrade Quedas",
+          "course": "Engenharia da Computação",
+          "description": "Jovem de 22 anos, morador da cidade de Santos. Atualmente cursando o 6º período do curso de Engenharia da Computação na USJT Unimonte e ainda não atuo em nenhuma área.."
      }
 ]
